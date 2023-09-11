@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c50680c9-52fb-4607-ad09-ceb5af109557" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/04-攀爬效果/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/04-攀爬效果/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/05-攀爬效果二/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/05-攀爬效果二/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/pxx/code/pl/css2024/src/04-攀爬效果",
+    "last_opened_file_path": "/Users/pxx/code/pl/css2024/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -60,6 +60,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/04-攀爬效果" />
       <recent name="$PROJECT_DIR$/src/03-文本填充效果" />
       <recent name="$PROJECT_DIR$" />
@@ -78,7 +79,9 @@
       <updated>1693921117594</updated>
       <workItem from="1693921120018" duration="12195000" />
       <workItem from="1694074761271" duration="20121000" />
-      <workItem from="1694270025944" duration="4654000" />
+      <workItem from="1694270025944" duration="4748000" />
+      <workItem from="1694321419025" duration="19000" />
+      <workItem from="1694321809609" duration="5062000" />
     </task>
     <servers />
   </component>
