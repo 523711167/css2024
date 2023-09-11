@@ -2,7 +2,8 @@
 // import Index from './02-毛玻璃效果/index'
 // import Index from './03-文本填充效果/index'
 // import Index from './04-攀爬效果/index'
-import Index from './05-攀爬效果二/index'
+// import Index from './05-攀爬效果二/index'
+import Index from './06-托影效果'
 
 
 function App() {
