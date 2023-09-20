@@ -7,7 +7,8 @@
 // import Index from './07-流体加载效果'
 // import Index from './08-发光渐变加载环效果'
 // import Index from './09-蛇形边框加载动画'
-import Index from './11-跳动小球'
+// import Index from './11-跳动小球'
+import Index from './12-3D旋转动画效果'
 
 
 function App() {
