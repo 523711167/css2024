@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c50680c9-52fb-4607-ad09-ceb5af109557" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/13-闪烁文字效果/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/13-闪烁文字效果/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/14-双重加载环动画/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/14-双重加载环动画/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +90,7 @@
       <workItem from="1695128259541" duration="890000" />
       <workItem from="1695217809371" duration="2787000" />
       <workItem from="1695278780221" duration="2010000" />
+      <workItem from="1695367961296" duration="3480000" />
     </task>
     <servers />
   </component>
