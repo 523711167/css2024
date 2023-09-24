@@ -11,7 +11,8 @@
 // import Index from './12-3D旋转动画效果'
 // import Index from './13-闪烁文字效果'
 // import Index from './14-双重加载环动画'
-import Index from './15-雷达扫描效果图'
+// import Index from './15-雷达扫描效果图'
+import Index from './16-装满猫的杯子'
 
 
 function App() {

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c50680c9-52fb-4607-ad09-ceb5af109557" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/15-雷达扫描效果图/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/15-雷达扫描效果图/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/15-雷达扫描效果图/pxx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16-装满猫的杯子/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16-装满猫的杯子/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16-装满猫的杯子/pxx.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/pxx/code/pl/css2024/src/15-雷达扫描效果图",
+    "last_opened_file_path": "/Users/pxx/code/pl/css2024/src/16-装满猫的杯子",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,11 +61,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/16-装满猫的杯子" />
       <recent name="$PROJECT_DIR$/src/15-雷达扫描效果图" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/04-攀爬效果" />
       <recent name="$PROJECT_DIR$/src/03-文本填充效果" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,7 +93,8 @@
       <workItem from="1695217809371" duration="2787000" />
       <workItem from="1695278780221" duration="2010000" />
       <workItem from="1695367961296" duration="4105000" />
-      <workItem from="1695459336371" duration="4430000" />
+      <workItem from="1695459336371" duration="4493000" />
+      <workItem from="1695523775718" duration="3072000" />
     </task>
     <servers />
   </component>

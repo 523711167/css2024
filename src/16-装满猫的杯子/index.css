@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #262626;
+}
+
+.cat {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 150px;
+    height: 180px;
+    border: 6px solid #262626;
+    border-top: 2px solid transparent;
+    border-radius: 5px 5px 15px 15px;
+    background: url("pxx.jpg") no-repeat;
+    background-size: contain;
+    box-shadow: 0 0 0 6px #fff,
+                0 20px 35px rgba(0, 0, 0, 1);
+    animation: animate 10s linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        background-position: 0 10px;
+    }
+
+    10% {
+        background-position: 0 20px;
+    }
+
+    40% {
+        background-position: 0 40px;
+    }
+
+    80% {
+        background-position: 0 80px;
+    }
+
+    100% {
+        background-position: 0 100px;
+    }
+
+}
+
+.cat::before {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 80px;
+    border: 6px solid #fff;
+    right: -69px;
+    top: 30px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+
+}
