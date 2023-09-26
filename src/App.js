@@ -14,7 +14,8 @@
 // import Index from './15-雷达扫描效果图'
 // import Index from './16-装满猫的杯子'
 // import Index from './17-3D旋转方块动画效果'
-import Index from './18-加载带有更改背景颜色的进度条'
+// import Index from './18-加载带有更改背景颜色的进度条'
+import Index from './19-3D文字跳跃动画'
 
 
 function App() {
