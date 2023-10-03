@@ -17,7 +17,8 @@
 // import Index from './18-加载带有更改背景颜色的进度条'
 // import Index from './19-3D文字跳跃动画'
 // import Index from './20-彩虹页面加载动画'
-import Index from './22-简单文字跳动'
+// import Index from './22-简单文字跳动'
+import Index from './23-小球跳动加载'
 
 
 function App() {
