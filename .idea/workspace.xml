@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c50680c9-52fb-4607-ad09-ceb5af109557" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/23-小球跳动加载/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/23-小球跳动加载/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/24-翻页文本css效果/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/24-翻页文本css效果/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +30,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2UyoKX3nI07yXURKWknsybBTfiG" />
   <component name="ProjectLevelVcsManager">
@@ -102,7 +105,8 @@
       <workItem from="1695732290508" duration="1312000" />
       <workItem from="1695985043538" duration="3006000" />
       <workItem from="1696074195509" duration="1372000" />
-      <workItem from="1696297928440" duration="1572000" />
+      <workItem from="1696297928440" duration="1689000" />
+      <workItem from="1696504402371" duration="1138000" />
     </task>
     <servers />
   </component>
