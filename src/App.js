@@ -20,7 +20,8 @@
 // import Index from './22-简单文字跳动'
 // import Index from './23-小球跳动加载'
 // import Index from './24-翻页文本css效果'
-import Index from './25-动画效果1'
+// import Index from './25-动画效果1'
+import Index from './26-动画效果2'
 
 
 function App() {
