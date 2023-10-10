@@ -22,7 +22,8 @@
 // import Index from './24-翻页文本css效果'
 // import Index from './25-动画效果1'
 // import Index from './26-动画效果2'
-import Index from './27-浮动文本加载效果'
+// import Index from './27-浮动文本加载效果'
+import Index from './28-线加载动画'
 
 
 function App() {
