@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c50680c9-52fb-4607-ad09-ceb5af109557" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/30-简单加载动画/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/30-简单加载动画/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/31-旋转轮子动画/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/31-旋转轮子动画/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/32-光加载环动画效果/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/32-光加载环动画效果/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +109,8 @@
       <workItem from="1696504402371" duration="1253000" />
       <workItem from="1696752847492" duration="6454000" />
       <workItem from="1696920755802" duration="4715000" />
-      <workItem from="1697251832890" duration="2548000" />
+      <workItem from="1697251832890" duration="2641000" />
+      <workItem from="1697595078467" duration="1428000" />
     </task>
     <servers />
   </component>
