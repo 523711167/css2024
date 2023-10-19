@@ -27,7 +27,8 @@
 // import Index from './29-Css闪烁文字效果'
 // import Index from './30-简单加载动画'
 // import Index from './31-旋转轮子动画'
-import Index from './32-光加载环动画效果'
+// import Index from './32-光加载环动画效果'
+import Index from './33-常见加载效果'
 
 
 function App() {
