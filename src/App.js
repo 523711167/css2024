@@ -29,7 +29,8 @@
 // import Index from './31-旋转轮子动画'
 // import Index from './32-光加载环动画效果'
 // import Index from './33-常见加载效果'
-import Index from './34-四面反转'
+// import Index from './34-四面反转'
+import Index from './35-黄色和黑色箭头符号加载动画'
 
 
 function App() {
